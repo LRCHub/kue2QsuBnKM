@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Seaside Wave",
+  "base_artist": "JAKEN",
+  "createdAt": "2025-12-01T14:07:15.228600Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seaside Wave (feat. 炒炒)",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_01_Seaside_Wave_(feat._炒炒)_JAKEN.txt"
+    }
+  ]
+}
